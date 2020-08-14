@@ -9,4 +9,3 @@ print(c)
 c = b ** 2
 print(c)
 
-
